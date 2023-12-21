@@ -1,0 +1,4 @@
+https://calculateaspectratio.com/
+https://developer.mozilla.org/en-US/docs/Web/javascript
+https://developer.mozilla.org/en-US/docs/Web/CSS
+https://developer.mozilla.org/en-US/docs/Web/HTML
