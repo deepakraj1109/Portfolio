@@ -1,0 +1,12 @@
+.id{
+    text-align: center;
+}
+
+.para{
+    padding-left: 180px;
+    padding-right: 180px;
+    font-size: 30px;
+}
+button{
+    background-color: palegreen;
+}
